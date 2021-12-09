@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true">
+    <file url="file://$PROJECT_DIR$/src/CMakeLists.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/header.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/readefl_h.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/readelf_S.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/readelf_s.cpp" charset="GBK" />
+  </component>
+</project>

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ELFReader.dir/main.cpp.o CMakeFiles/ELFReader.dir/readefl_h.cpp.o CMakeFiles/ELFReader.dir/readelf_S.cpp.o CMakeFiles/ELFReader.dir/readelf_s.cpp.o  -o ../bin/ELFReader 

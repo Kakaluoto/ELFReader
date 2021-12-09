@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hy/myCppProject/ELFReader/src/header.h
+iostream
+-
+cstdio
+-
+cstring
+-
+cstdlib
+-
+elf.h
+-
+
+/home/hy/myCppProject/ELFReader/src/readefl_h.cpp
+header.h
+/home/hy/myCppProject/ELFReader/src/header.h
+
